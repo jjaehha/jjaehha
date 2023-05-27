@@ -10,6 +10,6 @@
 📧Email: rlawogk6953@naver.com<br />
 🎓Education: SHU(Sahmyook Health Universuty), Medical Informatics<br />
 🪪Certificate: <br />
-<a href="http://qr.kakao.com/talk/4xzIdUP.UGbsjAwT1btD9S_a7ZQ-" target="_blank"><img src="https://img.shields.io/badge/kakaotalk-#FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/></a>
+<a href="http://qr.kakao.com/talk/4xzIdUP.UGbsjAwT1btD9S_a7ZQ-" target="_blank"><img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/></a>
 
 <h2>🖥️Front-end🖥️</h2>
