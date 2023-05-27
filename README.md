@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**jjaehha/jjaehha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>✨Hello, I'm Jeaha✨</h2>
+안녕하세요 풀스택 개발자를 꿈꾸고 있는 김재하입니다<br />
 
-Here are some ideas to get you started:
+<h2>🖥️About Me🖥️</h2>
+<br />
+👦🏻Name: 김재하(Jaeha Kim)<br />
+👨🏻‍💻Nick Name: Jay<br />
+📧Email: rlawogk6953@naver.com<br />
+🎓Education: SHU(Sahmyook Health Universuty), Medical Informatics<br />
+🪪Certificate: <br />
+<a href="http://qr.kakao.com/talk/4xzIdUP.UGbsjAwT1btD9S_a7ZQ-" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🖥️Front-end🖥️</h2>
