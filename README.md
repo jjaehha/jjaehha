@@ -1,8 +1,10 @@
-<div align="center">
+<div>
 
 <h2>✨Hello, I'm Jeaha✨</h2>
 안녕하세요 풀스택 개발자를 꿈꾸고 있는 김재하입니다<br />
 "You can do anything you set your mind to"<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehha&show_icons=true&theme=radical)
 
 <h2>🖥️About Me🖥️</h2>
 <br />
@@ -40,3 +42,52 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+
+<h2>🖥️Portfolio🖥️</h2>
+
+### 1. [존윅]
+
+> 존윅페이지 코딩
+
+- [서버 링크]
+- 개발 기간:
+- 참여 인원:
+- 역할:
+- 사용 기술:
+
+> 프로젝트 상세 설명<br>
+
+- 주요 개발 내용: <br>
+  · <br>
+  · <br>
+  · <br>
+  · <br>
+  · <br>
+- 문제 해결 경험:<br>
+  · <br><br>
+  · <br>
+  · .<br>
+  <br>
+
+> [회고 / 느낀점]
+
+### 1. [뺵다방]
+
+> 빽다방 클론코딩 (팀 프로젝트)
+
+- [서버 링크]
+- 개발 기간:
+- 참여 인원:
+- 역할:
+- 사용 기술:
+
+> 프로젝트 상세 설명 - 김재하 파트 부분<br>
+
+- 주요 개발 내용: <br>
+  ·
+- 문제 해결 경험:<br>
+  ·
+
+  > [회고 / 느낀점]
+
+</div>
