@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/rlawogk6953@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/rlawogk6953@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 
-<h2>🖥️Front-end🖥️</h2>
+<h2>🖥️Front-end</h2>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 
 
-<h2>🖥️Back-end🖥️</h2>
+<h2>🖥️Back-end</h2>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Node.RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
 
 
-<h2>🖥️Tools🖥️</h2>
+<h2>🖥️Tools</h2>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white"/>
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
-<h2>🖥️Portfolio🖥️</h2>
+<h2>🖥️Portfolio</h2>
 
 ### 1. [존윅]
 
