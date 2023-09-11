@@ -1,6 +1,6 @@
 <div>
 
-<h2>✨Hello, I'm Jeaha✨</h2>
+<h2>✨Hello, I'm Jaeha✨</h2>
 안녕하세요 풀스택 개발자를 꿈꾸고 있는 김재하입니다<br />
 "You can do anything you set your mind to"<br />
 
