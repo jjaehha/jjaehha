@@ -9,12 +9,11 @@
 📧Email: rlawogk6953@naver.com<br />
 🎓Education: SHU(Sahmyook Health Universuty), Medical Informatics<br />
 🪪Certificate: 정보처리산업기사, 웹디자인기능사<br />
-
+<br />
 <img src="https://img.shields.io/badge/Jay_1105-371D1E?style=flat&logo=kakaotalk&logoColor=FFCD00"/>
 <img src="https://img.shields.io/badge/dev_jay1-E4405F?style=flat&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/rlawogk6953@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/rlawogk6953@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-<br />
 <br />
 <br />
 
