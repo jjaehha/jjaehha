@@ -54,12 +54,24 @@
 - GitHub 링크: https://github.com/jjaehha/CGV.git
 - 개발 기간: 2023. 02. 06 ~ 2023. 02. 20
 - 참여 인원: 3명
-- 역할: 프로젝트 총괄 및 광고 영상 및 무비차트 제작
+- 역할: 프로젝트 총괄 및 광고 영상, 무비차트 제작
 - 사용 기술: <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
 - 사용 개발 도구: <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 > 프로젝트 상세 설명 <br />
-- 주요 개발 내용: CGV 메인페이지 클론 코딩
+- 주요 개발 내용: <br />
+  · CGV 메인페이지 클론 코딩<br />
+- 문제 해결 경험: <br />
+  · 학원 개강 후 학원에서 처음 만난 수강생들과 처음으로 진행한 프로젝트이기 때문에 HTML, CSS를 처음 접해보는 팀원들이 있어 기존 생각한 기간보다 기간을 늘려 소외되는 인원 없이 하나하나 찾아보고 배우며 진행하였다.<br />
+  · 각 페어간 소통이 원활하지 못하여 팀장을 지정하여 소통문제를 해결 하였다. <br />
+
+> [회고 / 느낀점]
+학원에서 프론트엔드 과정 개강 이후 처음으로 진행한 프로젝트입니다.<br />
+총 9명의 팀원을 3개의 페어로 나누어 3페어 모두 CGV 메인 페이지 클론 코딩을 진행하였습니다.<br />
+진행 중 페어 간 진행 상황을 공유하였고, 소통이 부족하다는 점을 알게 되어 각 페어에 조장을 지정하여 페어 간 소통이 원활하게 되도록 하였습니다.<br />
+비전공자인 몇몇 분들이 HTML, CSS 경험이 없어 1주일이었던 개발 기간을 2주로 늘려 소외되는 인원 없이 같이 진행하였고, 각자 자신이 맡은 부분을 완성하여 코드 리뷰 및 피드백을 진행하였습니다.<br />
+결과물은 비슷하더라도 3페어 모두 코드와 방법이 달랐고 서로의 코드를 보며 더 좋은 코드를 알려주며 각자의 실력 향상에 도움을 주었습니다.<br />
+
 
 ### 1. [존윅]
 
