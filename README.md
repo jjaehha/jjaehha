@@ -1,10 +1,9 @@
 <div>
 <h2>✨Hello, I'm Jaeha✨</h2>
-안녕하세요 풀스택 개발자를 꿈꾸고 있는 김재하입니다<br />
 "Hello World"<br />
+안녕하세요 풀스택 개발자를 꿈꾸고 있는 김재하입니다<br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehha&show_icons=true&theme=radical)
 
 
 <h2>🖥️ About Me</h2>
@@ -14,6 +13,7 @@
 🎓Education: SHU(Sahmyook Health Universuty), Medical Informatics<br />
 🪪Certificate: 정보처리산업기사, 웹디자인기능사<br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehha&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/Jay_1105-371D1E?style=flat&logo=kakaotalk&logoColor=FFCD00"/>
 <img src="https://img.shields.io/badge/dev_jay1-E4405F?style=flat&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/rlawogk6953@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
