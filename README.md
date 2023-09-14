@@ -73,9 +73,9 @@
   비전공자인 몇몇 분들이 HTML, CSS 경험이 없어 1주일이었던 개발 기간을 2주로 늘려 소외되는 인원 없이 같이 진행하였고, 각자 자신이 맡은 부분을 완성하여 코드 리뷰 및 피드백을 진행하였습니다.<br />
   결과물은 비슷하더라도 3페어 모두 코드와 방법이 달랐고 서로의 코드를 보며 더 좋은 코드를 알려주며 각자의 실력 향상에 도움을 주었습니다.<br />
 <p/>
-
-
-### 1. [존윅]
+<br />
+<br />
+### 2. [존윅]
 
 > 존윅페이지 개발
 
@@ -98,17 +98,19 @@
   항상 클론 코딩을 하며 공부를 하다 처음으로 개발한 페이지입니다. 혼자 하는 만큼 분명히 어려운 점도 있었지만 해결했을 때 와 페이지를 완성했을 때의 성취감은 평생이 잊지 못할 것 같습니다.
 </p>
 
-### 1. [뺵다방]
+### 3. [뺵다방]
 
-> 빽다방 클론코딩 (팀 프로젝트)
+> 빽다방 클론코딩
 
-- [서버 링크]
-- 개발 기간:
-- 참여 인원:
-- 역할:
+- GitHub 링크: https://github.com/jjaehha/paikdabang.git
+- 개발 기간: 2023 .02 .27 ~ 2023. 03 .17
+- 참여 인원: 6명
+- 역할: 프로젝트 총괄, 헤더 및 푸터 제작, TOP 버튼 제작, CEO 인사말 페이지 제작, 빽다방 소개 페이지 제작, 커피 클래스 페이지 제작
 - 사용 기술:
+- - 사용 기술: <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+- 사용 개발 도구: <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
-> 프로젝트 상세 설명 - 김재하 파트 부분<br>
+> 프로젝트 상세 설명<br>
 
 - 주요 개발 내용: <br>
   ·
