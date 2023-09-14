@@ -2,9 +2,6 @@
 <h2>✨Hello, I'm Jaeha✨</h2>
 "Hello World"<br />
 안녕하세요 풀스택 개발자를 꿈꾸고 있는 김재하입니다<br />
-<br />
-
-
 
 <h2>🖥️ About Me</h2>
 👦🏻Name: 김재하(Jaeha Kim)<br />
@@ -13,11 +10,14 @@
 🎓Education: SHU(Sahmyook Health Universuty), Medical Informatics<br />
 🪪Certificate: 정보처리산업기사, 웹디자인기능사<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehha&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/Jay_1105-371D1E?style=flat&logo=kakaotalk&logoColor=FFCD00"/>
 <img src="https://img.shields.io/badge/dev_jay1-E4405F?style=flat&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/rlawogk6953@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/rlawogk6953@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<br />
+<br />
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehha&show_icons=true&theme=radical)
 
 <h2>🖥️ Front-end</h2>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
