@@ -46,6 +46,22 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
 <h2>🖥️ Portfolio</h2>
+### 1. [CGV]
+
+> CGV 메인페이지 클론코딩
+
+- GitHub 링크: https://github.com/jjaehha/CGV.git
+- 개발 기간: 2023. 02. 06 ~ 2023. 02. 20
+- 참여 인원: 3명
+- 역할: 프로젝트 총괄 및 광고 영상 및 무비차트 제작
+- 사용 기술:
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+- 사용 개발 도구:
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+
 
 ### 1. [존윅]
 
