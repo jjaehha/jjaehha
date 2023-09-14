@@ -1,7 +1,7 @@
 <div>
 <h2>✨Hello, I'm Jaeha✨</h2>
 안녕하세요 풀스택 개발자를 꿈꾸고 있는 김재하입니다<br />
-"console.log("Hellog World")"<br />
+"Hello World"<br />
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehha&show_icons=true&theme=radical)
