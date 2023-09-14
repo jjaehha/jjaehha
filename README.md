@@ -12,7 +12,7 @@
 👨🏻‍💻Nick Name: Jay<br />
 📧Email: rlawogk6953@naver.com<br />
 🎓Education: SHU(Sahmyook Health Universuty), Medical Informatics<br />
-🪪Certificate: <br />
+🪪Certificate: 정보처리산업기사, 웹디자인기능사<br />
 
 <img src="https://img.shields.io/badge/Jay_1105-371D1E?style=flat&logo=kakaotalk&logoColor=FFCD00"/>
 <img src="https://img.shields.io/badge/dev_jay1-E4405F?style=flat&logo=instagram&logoColor=white"/>
