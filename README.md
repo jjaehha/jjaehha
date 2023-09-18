@@ -257,6 +257,7 @@
 
 > FRADOT 페이지 반응형 개발
 
+- 사이트 주소: http://fradot.store/
 - GitHub 링크: https://github.com/jjaehha/FRADOT_RE.git
 - 개발 기간: 2023 .07 .27 ~ 2023. 08 .31
 - 참여 인원: 3명
