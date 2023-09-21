@@ -65,7 +65,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </div>
 
-<h2>🖥️ Portfolio</h2>
+## 🖥️ Portfolio
+
 
 ### 1. CGV
 
@@ -167,7 +168,49 @@
 </p>
 <br />
 
-### 4. FRADOT V1.0
+### 4. FRADOT V2.0
+
+> FRADOT 페이지 반응형 개발
+
+- 사이트 주소: http://fradot.store/
+- GitHub 링크: https://github.com/jjaehha/FRADOT_RE.git
+- 개발 기간: 2023 .07 .27 ~ 2023. 08 .31
+- 참여 인원: 3명
+- 역할: 코드 리팩토링, 유지보수, 반응형 디자인, 반응형 개발
+- 사용 기술:
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
+- 사용 개발 도구:
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white"/>
+- API:
+  <img src="https://img.shields.io/badge/ReactKakaoMapSDK-FFCD00?style=flat&logo=kakao&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SeoulOpenAPI-0089CF?style=flat&logo=stripe&logoColor=white"/>
+
+> 프로젝트 상세 설명<br />
+
+- 주요 개발 내용: <br />
+  · 코드 리펙토링 및 유지보수 <br />
+  · 반응형 개발 <br />
+  
+> 회고 / 느낀점 <br />
+<p>
+  지난번 2023 서울 열린데이터광장 공공데이터 활용 모바일 앱/웹 경진대회에서 개발한 페이지 "FRADOT"의 가장큰 단점인 모바일로 접속시 화면이 깨져 정상적인 작동이 불가능 하다는 점, 그리고 코드에 불필요한 부분이 너무 많다는 점을 보완하여 FRADOT V2.0을 개발하기로 했습니다.<br />
+  아쉽게 팀원 모두가 시간이 되지 않아 3명이서 진행하게 되었습니다.<br />
+  코드 리팩토링은 불필요한 코드를 모두 지우고, 함수를 통하여 코드 길이를 줄였으며, container와 presenter로 코드를 나누어 index.js 파일에 출력이 되도록 코딩했습니다.<br />
+  또한 반응형 개발을 하여 모바일에서도 정상적인 작동이 되도록 설정하였습니다.<br />
+  이번 프로젝트로 좀 더 좋은 사이트가 된 것 같습니다.<br />
+</p>
+<br />
+
+## 🖥️ Experience
+
+### 1. FRADOT V1.0
 
 > 2023 서울 열린데이터광장 공공데이터 활용 모바일 앱/웹 경진대회
 
@@ -216,7 +259,7 @@
 </p>
 <br />
 
-### 5. KOREA IT 아카데미
+### 2. KOREA IT 아카데미
 
 > 학원 수업 내용 정리
 
@@ -250,45 +293,5 @@
   프론트엔드 과정을 듣는 도중 다른 언어도 하나 배우고 싶어 다뤄본 경험이 있는 Java 수업과 앱 개발 수업을 등록하여 수강했습니다.<br />
   결과적으로 학원을 다니며 여러 가지 언어와 기술도 배웠지만, 개발자로써 앞으로의 계획을 수립하여 더 좋은 개발자가 될 수 있는 발판이 되어준 것 같습니다.<br />
   6개월이라는 시간을 투자하였지만 시간이 전혀 아깝지 않았고, 오히려 합리적인 선택이었다고 생각합니다.<br />
-</p>
-<br />
-
-### 6. FRADOT V2.0
-
-> FRADOT 페이지 반응형 개발
-
-- 사이트 주소: http://fradot.store/
-- GitHub 링크: https://github.com/jjaehha/FRADOT_RE.git
-- 개발 기간: 2023 .07 .27 ~ 2023. 08 .31
-- 참여 인원: 3명
-- 역할: 코드 리팩토링, 유지보수, 반응형 디자인, 반응형 개발
-- 사용 기술:
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
-- 사용 개발 도구:
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white"/>
-- API:
-  <img src="https://img.shields.io/badge/ReactKakaoMapSDK-FFCD00?style=flat&logo=kakao&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SeoulOpenAPI-0089CF?style=flat&logo=stripe&logoColor=white"/>
-
-> 프로젝트 상세 설명<br />
-
-- 주요 개발 내용: <br />
-  · 코드 리펙토링 및 유지보수 <br />
-  · 반응형 개발 <br />
-  
-> 회고 / 느낀점 <br />
-<p>
-  지난번 2023 서울 열린데이터광장 공공데이터 활용 모바일 앱/웹 경진대회에서 개발한 페이지 "FRADOT"의 가장큰 단점인 모바일로 접속시 화면이 깨져 정상적인 작동이 불가능 하다는 점, 그리고 코드에 불필요한 부분이 너무 많다는 점을 보완하여 FRADOT V2.0을 개발하기로 했습니다.<br />
-  아쉽게 팀원 모두가 시간이 되지 않아 3명이서 진행하게 되었습니다.<br />
-  코드 리팩토링은 불필요한 코드를 모두 지우고, 함수를 통하여 코드 길이를 줄였으며, container와 presenter로 코드를 나누어 index.js 파일에 출력이 되도록 코딩했습니다.<br />
-  또한 반응형 개발을 하여 모바일에서도 정상적인 작동이 되도록 설정하였습니다.<br />
-  이번 프로젝트로 좀 더 좋은 사이트가 된 것 같습니다.<br />
 </p>
 <br />
