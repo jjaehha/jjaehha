@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
@@ -59,6 +58,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
@@ -248,12 +248,44 @@
 ## 🖥️ Study
 
 
-### 1. KOREA IT 아카데미
+### 1. 삼육보건대학교
+
+> 학교 수업 내용 정리
+
+- GitHub 링크: https://github.com/jjaehha/SHU-202110475.git
+- 수강 기간: 2021. 03. 02 ~ 2023. 02. 09
+- 수강한 수업: 병원프로그래민, 의료데이터베이스, 의료IoT, 의료정보처리실습 등 여러 프로그래밍 언어를 의료와 융합하여 수강
+- 사용 기술:
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+- 사용 개발 도구:
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+
+> 회고 / 느낀점 <br />
+  의료정보과에 재학하며 여러 프로그래밍 언어를 의료와 연결하여 수강하였습니다.<br />
+  처음에는 의료 관련 지식도 처음이고 프로그래밍 관련 지식도 처음이라 수업 내용에 어려움을 느꼈지만 적응해 나갔습니다.<br />
+  2학년 때 1년간 캡스톤디자인 강의를 수강하며 한국정보산업연합회에서 주최하는 장애인 노약자 등 소외계층을 위한 삶의 질 향상 프로젝트 '프로보노'에 참여하여 정해진 틀에서 벗어나 자유롭게 개발하며 개발자의 꿈을 키워나갔습니다.<br />
+  또한 프로그래밍 이외에도 원무 관리, 의료법, 병원 AI, 보건 의료정보학 등 여러 의료 관련 강의를 수강하며 여러 방면으로 지식을 넓혀갔습니다.<br />
+<br />
+
+### 2. KOREA IT 아카데미
 
 > 학원 수업 내용 정리
 
 - GitHub 링크: https://github.com/jjaehha/KOREA_IT.git
-- 개발 기간: 2023. 01. 12 ~ 2023. 07. 07
+- 수강 기간: 2023. 01. 12 ~ 2023. 07. 07
 - 수강한 수업: 프론트엔드1 ~ 6, Java1 ~ 2, 앱 개발 프로젝트1
 - 사용 기술:
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -275,12 +307,31 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
 > 회고 / 느낀점 <br />
-<p>
   학교 졸업 후 진로에 대해 고민을 하다 취업을 하기 전 자격증을 취득하기 위해 학원을 알아보던 중 프론트엔드 과정에 눈길이 가 등록하게 되었습니다.<br />
   학교에서 배운 지식으로만 취업을 하기엔 많이 부족하다고 생각하여 좀 더 배우고 취업을 하기로 결정했습니다.<br />
   처음에 수업을 따라가지 못할까 걱정이 되었지만 학교에서 배운 지식이 있어 따라가는데 전혀 지장이 없었고, 초반엔 오히려 아는 내용이 나와 수강생들과 팀을 만들어 스터디와 프로젝트를 꾸준히 진행하였습니다.<br />
   프론트엔드 과정을 듣는 도중 다른 언어도 하나 배우고 싶어 다뤄본 경험이 있는 Java 수업과 앱 개발 수업을 등록하여 수강했습니다.<br />
   결과적으로 학원을 다니며 여러 가지 언어와 기술도 배웠지만, 개발자로써 앞으로의 계획을 수립하여 더 좋은 개발자가 될 수 있는 발판이 되어준 것 같습니다.<br />
   6개월이라는 시간을 투자하였지만 시간이 전혀 아깝지 않았고, 오히려 합리적인 선택이었다고 생각합니다.<br />
-</p>
+<br />
+
+### 3. 웹디자인기능사
+
+> 웹디자인 기능사 자격증 내용
+
+- GitHub 링크: https://github.com/jjaehha/KOREA_IT.git
+- 공부 기간: 2023. 08. 21 ~ 2023. 08. 25
+- 사용 기술:
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+
+- 사용 개발 도구:
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+
+> 회고 / 느낀점 <br />
+학원 수업을 수강하며 정보처리산업기사 자격증과 웹디자인기능사 자격증 취득을 동시에 진행하였습니다.<br />
+웹디자인 기능사 자격증 공개 문제를 레이아웃과 기능별로 만들어 보며 공부하였습니다.<br />
+웹 표준에 최대한 신경 써서 제작했으며, 외워서 해야 하는 시험이기 때문에 JavaScript보다 JQuery를 주로 사용하여 연습하였습니다.<br />
 <br />
