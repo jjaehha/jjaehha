@@ -335,3 +335,19 @@
 웹디자인 기능사 자격증 공개 문제를 레이아웃과 기능별로 만들어 보며 공부하였습니다.<br />
 웹 표준에 최대한 신경 써서 제작했으며, 외워서 해야 하는 시험이기 때문에 JavaScript보다 JQuery를 주로 사용하여 연습하였습니다.<br />
 <br />
+
+### 4. 코딩테스트
+
+> JavaScript 코딩 테스트 공부
+
+- GitHub 링크: https://github.com/jjaehha/codingTest_JavaScript.git
+- 공부 기간: 2023. 09. 14 ~ 2023. . 
+- 사용 기술:
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+
+- 사용 개발 도구:
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+
+> 회고 / 느낀점 <br />
+추후 프론트엔드 개발자로 취업을 위해 필요하다고 생각되어 JavaScript 코딩테스트 문제풀이를 시작하게 되었습니다.<br />
+<br />
